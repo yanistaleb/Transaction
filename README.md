@@ -7,17 +7,17 @@ Compte rendu TP bases de Données (Transactions)
 
 # replissage de la table
 
- ![GitHub Logo](C:\Users\33767\OneDrive\Bureau\cours\bases_de_données\TP\tp_transaction\code_remplissage_table.png)
+<img width="835" alt="code_commit" src="https://user-images.githubusercontent.com/57216370/100382063-c528cb00-301a-11eb-9909-91c14701554a.png">
 
 # Affichage de la table
 
- ![GitHub Logo](C:\Users\33767\OneDrive\Bureau\cours\bases_de_données\TP\tp_transaction\affichage_init.png)
+<img width="308" alt="affichage_init" src="https://user-images.githubusercontent.com/57216370/100382087-d1148d00-301a-11eb-9509-07cc94fe3651.png">
 
 # modification de la table avec commit
  
-![GitHub Logo](C:\Users\33767\OneDrive\Bureau\cours\bases_de_données\TP\tp_transaction\code_commit.png)
+<img width="835" alt="code_commit" src="https://user-images.githubusercontent.com/57216370/100382095-d40f7d80-301a-11eb-920b-a8beb4d99629.png">
 # Resultat
- ![GitHub Logo](C:\Users\33767\OneDrive\Bureau\cours\bases_de_données\TP\tp_transaction\affichage commit.png)
+<img width="346" alt="affichage commit" src="https://user-images.githubusercontent.com/57216370/100382108-d96cc800-301a-11eb-9e0d-66af8fd9a33f.png">
 
 
 
